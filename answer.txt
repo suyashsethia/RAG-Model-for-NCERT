@@ -1,0 +1,20 @@
+That's a
+ great question!  Machine learning is basically teaching computers to learn from data, just like
+ we do. Imagine you're trying to teach a puppy a new trick.
+ You show them the trick, give them treats when they get it right, and correct them gently when they get it wrong. That's kind of like machine learning!
+
+
+We give computers lots of data - like pictures of cats and dogs, or examples of different musical styles - and they learn to recognize patterns and make predictions based on
+ that data. They can then use this knowledge to do things like:
+
+* **Identify objects in images:** Like tagging your friends in photos on Facebook.
+* **Translate languages:** Helping you understand a website in a different language.
+* **
+Recommend music or movies:** Suggesting new things you might enjoy on Spotify or Netflix.
+* **Predict the weather:** Helping meteorologists forecast what's coming our way.
+
+It's a really exciting field with lots of potential,
+ and it's used in tons of ways that make our lives easier and more interesting!  
+
+Do you want to learn more about specific types of machine learning, or maybe see some cool examples? 
+
