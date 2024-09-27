@@ -26,7 +26,7 @@ from pydantic import BaseModel, Field
 from starlette.responses import StreamingResponse
 # from fastui.components.display import Link  # Import Link from FastUI
 # Or use `os.getenv('API_KEY')` to fetch an environment variable.
-API_KEY="AIzaSyCzcopOrcDHgZIdjrFuOrYeBasjG0qiwec" #fine grained token
+API_KEY={{secrets.API_KEY}} #fine grained token 
 
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel('gemini-1.5-flash-001')
