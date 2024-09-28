@@ -3,7 +3,9 @@
 This project implements a Retrieval Augmented Generation (RAG) system using NCERT textbook data, enhanced with subject classification and basic agent capabilities.  It allows users to query the NCERT dataset and receive contextually relevant answers, leveraging a vector database for retrieval and a large language model (LLM) for generation.  The system also classifies the query into different subjects (Physics, Chemistry, Biology) to tailor the LLM prompt for more accurate responses.  Finally, it includes text-to-speech functionality for audio output.
 
 ## Live Demo video 
-download the Screencast%20from%202024-09-28%2022-12-43.webm file
+
+[Watch the video](https://www.youtube.com/watch?v=your_video_id)
+
 
 ## Features
 
