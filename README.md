@@ -4,8 +4,7 @@ This project implements a Retrieval Augmented Generation (RAG) system using NCER
 
 ## Live Demo video 
 
-[Watch the video](https://www.youtube.com/watch?v=your_video_id)
-
+[![Watch the video](https://img.youtube.com/vi/fHACfjwt8Mw/maxresdefault.jpg)](https://youtu.be/fHACfjwt8Mw)
 
 ## Features
 
