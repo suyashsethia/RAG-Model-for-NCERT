@@ -62,7 +62,7 @@ This project implements a Retrieval Augmented Generation (RAG) system using NCER
 
 ## Dataset
 
-NCERT PDF Data: [link provided in original assignment]
+NCERT PDF Data: [NCERT PDF](https://drive.google.com/file/d/17jqGIlgT5yJVfIeM_-4yCMFO5Ojd8H_9/view?usp=sharing)
 Subject Classification Dataset: [https://www.kaggle.com/datasets/vivmankar/physics-vs-chemistry-vs-biology](https://www.kaggle.com/datasets/vivmankar/physics-vs-chemistry-vs-biology)
 
 
