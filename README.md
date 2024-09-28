@@ -68,4 +68,4 @@ Subject Classification Dataset: [https://www.kaggle.com/datasets/vivmankar/physi
 
 ## Acknowledgements
 
-This project utilizes Google's Gemini API and FAISS library.  Thanks to the providers of the NCERT dataset and the subject classification dataset.Thanks to SarvamAI to provide me with the opportunity to do thsi worderfull project .  
+This project utilizes Google's Gemini API and FAISS library.  Thanks to the providers of the NCERT dataset and the subject classification dataset.Thanks to SarvamAI to provide me with the opportunity to do this worderful project .  
